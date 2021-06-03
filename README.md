@@ -1,4 +1,4 @@
-- 👋 Hi, welcome to the Github profile of Zhong Li, here is an brief introduction regarding him.
+- 👋 Hi, welcome to the Github profile of Zhong Li, here is a brief introduction:
 
 Zhong's research interests lie primarily in the areas of Machine Learning and Data Mining. 
 His current work centers around Feature Selection, Instance Selection, Contextual Anomaly Detection, Hybrid Models and Digital Twin.
