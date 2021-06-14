@@ -7,7 +7,7 @@ which is part of the [DIGITAL TWIN program](https://www.digital-twin-research.nl
 Zhong obtained a Bachelor’s Degree in Statistics from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University) in Shanghai, China.
 He then received a Master’s Degree in Mathematics from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University)  and a Diplôme d’Ingénieur (double degree) in Data Science from [ENSAI](http://ensai.fr/) in Rennes, France.
 
-- 🔐 Most of my projects are confidential, so you maybe see loads of submissions in my profile while few open projects.
+- 🔐 Most of my projects are confidential, so you may see loads of submissions in my profile while few of them are open sources.
 
 
 <!---
