@@ -1,16 +1,10 @@
-- 👋 Hi, welcome to the Github profile of Zhong Li, here is a brief introduction:
+My name is Zhong Li, and I am a third-year Ph.D. candidate in Computer Science at Leiden University, affiliated with the EDA Lab. I am fortunate  to be supervised  by Dr. Matthijs van Leeuwen (daily supervisor, promotor) and Prof. Dr. Thomas Bäck (promotor).
 
-Zhong's research interests lie primarily in the areas of Machine Learning and Data Mining. 
-His current work centers around Feature Selection, Instance Selection, Contextual Anomaly Detection, Hybrid Models and Digital Twin.
-Specifically, the topic of his PhD program is "Feature and data subset selection for contextual anomaly detection using hybrid models”, 
-which is part of the [DIGITAL TWIN program](https://www.digital-twin-research.nl/). Before joining the [EDA](https://eda.liacs.nl/) group at [Leiden University](https://www.universiteitleiden.nl/en), 
-Zhong obtained a Bachelor’s Degree in Statistics from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University) in Shanghai, China.
-He then received a Master’s Degree in Mathematics from [Tongji University](https://en.wikipedia.org/wiki/Tongji_University)  and a Diplôme d’Ingénieur (double degree) in Data Science from [ENSAI](http://ensai.fr/) in Rennes, France.
+Research Interests: I am interested in the field of Data Mining and Machine Learning. More specifically, I work on explainable and generalizable anomaly detection, with a focus on but not limited to complex data such as event sequence and graph-structured data. 
 
-- 🔐 Most of my projects are confidential, so you may see loads of submissions in my profile while few of them are open sources.
+Research Keywords: 
 
+Methodologies-Oriented: Unsupervised Machine Learning; Anomaly Detection; Transfer Learning; XAI; Graph Neural Networks
 
-<!---
-ZhongLIFR/ZhongLIFR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Applications-Oriented: Log Analysis; Predictive Maintenance; Digital Twin; AI for Manufacturing
+
