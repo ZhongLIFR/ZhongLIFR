@@ -24,7 +24,7 @@ Currently, I’m shifting toward **generative models**, with a particular focus 
 ### 🔬 Research Keywords
 
 - **Methodologies**:  
-  Unsupervised Learning • Anomaly Detection • Transfer Learning • Explainable AI (XAI) • Graph Neural Networks  
+  Unsupervised Learning • Generative Models • Anomaly Detection • Transfer Learning • Explainable AI (XAI) • Graph Neural Networks  
 
 - **Applications**:  
   Log Analysis • Predictive Maintenance • Digital Twin • AI for Manufacturing
