@@ -1,10 +1,30 @@
-## Short Bio
-My name is Zhong Li, and I am a postdoc in Computer Science at Leiden University, affiliated with the [EDA Lab](https://eda.liacs.nl/). Previously, I did my PhD 
-with [Dr. Matthijs van Leeuwen](https://scholar.google.com/citations?user=GGLwU28AAAAJ&hl=en) (daily supervisor, promotor) and [Prof. Dr. Thomas Bäck](https://scholar.google.com/citations?user=x7LEID0AAAAJ&hl=en) (promotor) at Leiden University. During my PhD, I  also worked as a visiting PhD researcher in [DAML](https://www.cs.cit.tum.de/en/daml/home/) group at Technical University of Munich in 2024, where I am fortunate to be supervised by [Prof. Dr. Stephan Günnemann](https://scholar.google.de/citations?user=npqoAWwAAAAJ&hl=de).
+## 👋 About Me
 
-### Research Interests: 
-I have a broad interest in Data Mining and Machine Learning. During my PhD, my research focused on *trustworthy anomaly detection*, with a focus on but not limited to complex data types such as *event sequences* and *graph-structured data*. More recently, my work has partially shifted towards generative models, especially Diffusion Models and Flow Matching.
+Hi! I'm **Zhong Li**, a postdoctoral researcher in Computer Science at **Leiden University**, affiliated with the [EDA Lab](https://eda.liacs.nl/).  
 
-### Research Keywords: 
----**Methodologies-Oriented**: Unsupervised Machine Learning; Anomaly Detection; Transfer Learning; XAI; Graph Neural Networks
----**Applications-Oriented**: Log Analysis; Predictive Maintenance; Digital Twin; AI for Manufacturing
+I earned my PhD under the supervision of [Dr. Matthijs van Leeuwen](https://scholar.google.com/citations?user=GGLwU28AAAAJ&hl=en) and [Prof. Dr. Thomas Bäck](https://scholar.google.com/citations?user=x7LEID0AAAAJ&hl=en) at Leiden University.  
+In 2024, I also spent time as a visiting PhD researcher in the [DAML Group](https://www.cs.cit.tum.de/en/daml/home/) at **Technical University of Munich**, where I had the pleasure of being advised by [Prof. Dr. Stephan Günnemann](https://scholar.google.de/citations?user=npqoAWwAAAAJ&hl=de).
+
+---
+
+### 🎯 Research Interests
+
+I am broadly interested in **Data Mining** and **Machine Learning**.  
+
+During my PhD, I focused on **trustworthy anomaly detection**, particularly on complex data such as:
+- ⏳ Event sequences  
+- 🌐 Graph-structured data  
+
+Currently, I’m shifting toward **generative models**, with a particular focus on:
+- 🌀 Diffusion Models  
+- 🔄 Flow Matching
+
+---
+
+### 🔬 Research Keywords
+
+- **Methodologies**:  
+  Unsupervised Learning • Anomaly Detection • Transfer Learning • Explainable AI (XAI) • Graph Neural Networks  
+
+- **Applications**:  
+  Log Analysis • Predictive Maintenance • Digital Twin • AI for Manufacturing
