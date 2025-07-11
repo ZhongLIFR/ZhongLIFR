@@ -18,7 +18,8 @@ During my PhD, I focused on **trustworthy anomaly detection**, particularly on c
 - ⏳ Event sequences  
 - 🌐 Graph-structured data  
 
-Currently, I’m shifting toward **generative models**, with a particular focus on:
+Currently, I’m shifting toward **trustworthy generative models**, with a particular focus on:
+- 🍃LLM Reasoning faithfulness 
 - 🌀 Diffusion Models  
 - 🔄 Flow Matching
 
