@@ -12,7 +12,7 @@ In 2024, I also spent time as a visiting PhD researcher in the [DAML Group](http
 
 ### 🎯 Research Interests
 
-I am broadly interested in **Data Mining** and **Machine Learning**.  
+I am broadly interested in the domian of **Data Mining** and **Machine Learning**, with strong interest in **trustworthy AI** topic.
 
 During my PhD, I focused on **trustworthy anomaly detection**, particularly on complex data such as:
 - ⏳ Event sequences  
