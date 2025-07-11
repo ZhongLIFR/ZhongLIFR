@@ -31,4 +31,4 @@ During my Postdoc, I’m shifting toward **trustworthy generative models**, with
   Unsupervised Learning • Generative Models • Anomaly Detection • Transfer Learning • Explainable AI (XAI) • Graph Neural Networks  
 
 - **Applications**:  
-  Log Analysis • Predictive Maintenance • Digital Twin • AI for Manufacturing
+  Log Analysis • Predictive Maintenance • Digital Twin • AI for Manufacturing • AI for Math
