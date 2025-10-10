@@ -13,7 +13,7 @@ I was a postdoc postdoctoral researcher at **Leiden University** (working with [
 
 I am broadly interested in the domian of **Data Mining** and **Machine Learning**, with strong interest in **GenAI for Math**.
 
-During my Postdoc, I am working **generative AI for Math**, with a particular focus on:
+During my Postdoc, I am working on **generative AI for Math**, with a particular focus on:
 - 🍃 LLM for Optimization Modeling
 - 🌀 Diffusion Models, Flow Matching
 
