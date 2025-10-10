@@ -11,16 +11,16 @@ I was a postdoc postdoctoral researcher at **Leiden University** (working with [
 
 ### 🎯 Research Interests
 
-I am broadly interested in the domian of **Data Mining** and **Machine Learning**, with strong interest in **trustworthy AI** topic.
+I am broadly interested in the domian of **Data Mining** and **Machine Learning**, with strong interest in **GenAI for Math** topic.
+
+During my Postdoc, I’m shifting toward **generative AI for Math**, with a particular focus on:
+- 🍃LLM for Optimization Modeling
+- 🌀 Diffusion Models  
+- 🔄 Flow Matching
 
 During my PhD, I focused on **trustworthy anomaly detection**, particularly on complex data such as:
 - ⏳ Event sequences  
 - 🌐 Graph-structured data  
-
-During my Postdoc, I’m shifting toward **trustworthy generative models**, with a particular focus on:
-- 🍃LLM Reasoning correctness/faithfulness 
-- 🌀 Diffusion Models  
-- 🔄 Flow Matching
 
 ---
 
