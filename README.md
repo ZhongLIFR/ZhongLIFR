@@ -11,12 +11,11 @@ I was a postdoc postdoctoral researcher at **Leiden University** (working with [
 
 ### 🎯 Research Interests
 
-I am broadly interested in the domian of **Data Mining** and **Machine Learning**, with strong interest in **GenAI for Math** topic.
+I am broadly interested in the domian of **Data Mining** and **Machine Learning**, with strong interest in **GenAI for Math**.
 
-During my Postdoc, I’m shifting toward **generative AI for Math**, with a particular focus on:
-- 🍃LLM for Optimization Modeling
-- 🌀 Diffusion Models  
-- 🔄 Flow Matching
+During my Postdoc, I am working **generative AI for Math**, with a particular focus on:
+- 🍃 LLM for Optimization Modeling
+- 🌀 Diffusion Models, Flow Matching
 
 During my PhD, I focused on **trustworthy anomaly detection**, particularly on complex data such as:
 - ⏳ Event sequences  
@@ -27,7 +26,7 @@ During my PhD, I focused on **trustworthy anomaly detection**, particularly on c
 ### 🔬 Research Keywords
 
 - **Methodologies**:  
-  Unsupervised Learning • Generative Models • Anomaly Detection • Transfer Learning • Explainable AI (XAI) • Graph Neural Networks  
+  AI for Math •  Unsupervised Learning • Generative Models • Anomaly Detection • Transfer Learning • Explainable AI (XAI) • Graph Neural Networks  
 
 - **Applications**:  
   Log Analysis • Predictive Maintenance • Digital Twin • AI for Manufacturing • AI for Math
