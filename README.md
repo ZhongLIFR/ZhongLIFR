@@ -1,8 +1,10 @@
 ## 👋 About Me
 
-**Zhong Li** is a postdoctoral researcher at **GBU** (working with [Prof. Dr. Zaiwen Wen](https://scholar.google.com/citations?user=QfxrxDoAAAAJ&hl=en)), focusing on AI for Math. I am also a guest researcher at **Leiden University**.
+I am **Zhong Li**, currently a postdoctoral researcher at **GBU**, working with [Prof. Dr. Zaiwen Wen](https://scholar.google.com/citations?user=QfxrxDoAAAAJ&hl=en). I am also a guest researcher at **Leiden University**.
 
-I was a postdoctoral researcher at **Leiden University** (working with [Prof. Dr. Matthijs van Leeuwen](https://scholar.google.com/citations?user=GGLwU28AAAAJ&hl=en)). Before that, I earned my PhD under the supervision of [Prof. Dr. Matthijs van Leeuwen](https://scholar.google.com/citations?user=GGLwU28AAAAJ&hl=en) and [Prof. Dr. Thomas Bäck](https://scholar.google.com/citations?user=x7LEID0AAAAJ&hl=en) at Leiden University, affiliated with the [EDA Lab](https://eda.liacs.nl/). In 2024, I also spent time as a visiting PhD researcher in the [DAML Group](https://www.cs.cit.tum.de/en/daml/home/) at **Technical University of Munich**, where I had the pleasure of being advised by [Prof. Dr. Stephan Günnemann](https://scholar.google.de/citations?user=npqoAWwAAAAJ&hl=de).
+Before that, I was a postdoc at Leiden University with [Prof. Dr. Matthijs van Leeuwen](https://scholar.google.com/citations?user=GGLwU28AAAAJ&hl=en). I received my PhD from Leiden University, supervised by [Prof. Dr. Matthijs van Leeuwen](https://scholar.google.com/citations?user=GGLwU28AAAAJ&hl=en) and [Prof. Dr. Thomas Bäck](https://scholar.google.com/citations?user=x7LEID0AAAAJ&hl=en). In 2024, I visited the [DAML Group](https://www.cs.cit.tum.de/en/daml/home/) at **Technical University of Munich**, advised by [Prof. Dr. Stephan Günnemann](https://scholar.google.de/citations?user=npqoAWwAAAAJ&hl=de).
+
+My current work is on **AI for Math**, especially LLMs for optimization modeling. During my PhD, I worked on trustworthy anomaly detection, mainly for logs, event sequences, and graph-structured data.
 
 🔗 [Personal Website](https://zhonglifr.github.io/)  
 📚 [Google Scholar](https://scholar.google.com/citations?user=m5u8VlIAAAAJ&hl=en)
@@ -11,22 +13,25 @@ I was a postdoctoral researcher at **Leiden University** (working with [Prof. Dr
 
 ### 🎯 Research Interests
 
-I am broadly interested in the domian of **Data Mining** and **Machine Learning**, with strong interest in **GenAI for Math**.
+I am broadly interested in **Data Mining** and **Machine Learning**.
 
-During my Postdoc, I am working on **generative AI for Math**, with a particular focus on:
-- 🍃 LLM for Optimization Modeling
-- 🌀 Diffusion Models, Flow Matching
+Currently, I work on:
+- LLMs for optimization modeling
+- AI for mathematical reasoning
+- Diffusion models and flow matching
 
-During my PhD, I focused on **trustworthy anomaly detection**, particularly on complex data such as:
-- ⏳ Event sequences  
-- 🌐 Graph-structured data  
+Previously, I worked on:
+- Log and event-sequence anomaly detection
+- Graph anomaly detection
+- Explainable and robust anomaly detection
+- AI for smart manufacturing
 
 ---
 
 ### 🔬 Research Keywords
 
-- **Methodologies**:  
-  AI for Math •  Unsupervised Learning • Generative Models • Anomaly Detection • Transfer Learning • Explainable AI (XAI) • Graph Neural Networks  
+**Methods**  
+AI for Math • LLM Agents • Optimization Modeling • Unsupervised Learning • Generative Models • Anomaly Detection • Transfer Learning • Explainable AI • Graph Neural Networks
 
-- **Applications**:  
-  Log Analysis • Predictive Maintenance • Digital Twin • AI for Manufacturing • AI for Math
+**Applications**  
+Operations Research • Log Analysis • Predictive Maintenance • Digital Twin • Smart Manufacturing
